@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-07T23:44:38 PST" name="Default suite" finished-at="2025-02-07T23:44:41 PST" duration-ms="2334">
+  <suite started-at="2025-02-09T15:43:37 PST" name="Default suite" finished-at="2025-02-09T15:43:39 PST" duration-ms="1899">
     <groups>
     </groups>
-    <test started-at="2025-02-07T23:44:38 PST" name="Default test" finished-at="2025-02-07T23:44:41 PST" duration-ms="2334">
-      <class name="day_Three.HeaderDemo">
-        <test-method signature="testHeaders()[pri:2, instance:day_Three.HeaderDemo@3754a4bf]" started-at="2025-02-07T23:44:38 PST" name="testHeaders" finished-at="2025-02-07T23:44:41 PST" duration-ms="2277" status="PASS">
+    <test started-at="2025-02-09T15:43:37 PST" name="Default test" finished-at="2025-02-09T15:43:39 PST" duration-ms="1899">
+      <class name="day_four.Parsing_JSONResponseData">
+        <test-method signature="test_JSON_Path()[pri:2, instance:day_four.Parsing_JSONResponseData@3754a4bf]" started-at="2025-02-09T15:43:37 PST" name="test_JSON_Path" finished-at="2025-02-09T15:43:39 PST" duration-ms="1858" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testHeaders -->
-      </class> <!-- day_Three.HeaderDemo -->
+        </test-method> <!-- test_JSON_Path -->
+      </class> <!-- day_four.Parsing_JSONResponseData -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
